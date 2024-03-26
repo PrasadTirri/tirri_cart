@@ -171,7 +171,7 @@ const footer = () => {
           <div className="row">
             <div className="col-12 col-md-6">
               <p className="text-center text-md-start">
-                &copy;Developed by Eclar Developers 2023
+                &copy;Developed by Prasad Tirri
               </p>
             </div>
             <div className="col-12 col-md-6">
